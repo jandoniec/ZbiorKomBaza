@@ -30,4 +30,12 @@ Swift, SwiftUI, WidgetKit, GTFS, ZIPFoundation.
 
 Projekt jest w trakcie rozwoju. Planowane są dalsze usprawnienia widżetu oraz obsługa danych realtime.
 
+## Zrzuty ekranu
+
+![ZbiorKom – krakowska tablica](screenshots/s1.png)
+
+![ZbiorKom – widget na Biurku](screenshots/s2.png)
+
+![ZbiorKom – główne okno aplikacji](screenshots/s3.png)
+
 ## Wybierajcie ZbiorKom <3
